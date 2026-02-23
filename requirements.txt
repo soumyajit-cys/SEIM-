@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+elasticsearch[async]
+redis
+httpx
+python-dotenv
